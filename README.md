@@ -27,3 +27,10 @@
 2.1 settings.py
 
 2.2 templates
+
+
+primera captura
+![alt text](image.png)
+
+segunda captura
+![alt text](image-1.png)
